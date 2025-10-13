@@ -13,8 +13,21 @@ body {
     background-color: #669b49;
     margin-bottom: 15px;
 }
-#h1{
+#div-0{
     color: rgb(255, 255, 255);
     text-align: center;
-    font-size: 100px;
+    font-size: 70px;
+    padding: 0;
+}
+.h-white{
+    color: white;
+
+}
+#nav-cards{
+    text-align: left;
+    padding: 50px;
+}
+#bloco-de-tnt{
+    width: 15rem;
+ 
 }
