@@ -1,0 +1,87 @@
+#div-1 {    
+display: flex;
+height: 125vh;
+flex-direction: column;
+text-align: justify;
+text-align: center;
+margin: 60px;
+border:25px solid rgba(1, 1, 2, 0.322);
+background-color: rgba(34, 65, 122, 0.74);
+font-family: monospace;
+font-size:30px; 
+border-radius: 20px;
+width: 735px;
+}
+#div-2 {
+  background-color:rgba(255, 255, 255, 0.493);
+  margin:20px;
+  padding-top:10px;
+  border-radius: 20px;
+}
+#div-3 {
+  background-color:rgba(255, 255, 255, 0.5);
+  margin:20px;
+  padding-top:10px;
+  border-radius: 20px;
+}
+#div-4 {
+  background-color:rgba(255, 255, 255, 0.5);
+  margin:20px;
+  padding-top:10px;
+  border-radius: 20px;
+}
+#div-5 {
+  background-color:gray;
+  text-align: center;
+  border-radius: 50px;
+
+}
+#div-6 {
+  background-color:gray;
+  text-align: center;
+  border-radius: 50px;
+
+}
+#div-7 { 
+  margin: 15px;
+  height: 35px;
+  background-color: rgba(255, 255, 255, 0.452);
+  border-radius: 10px;
+
+}
+#div-8 {
+  height: 35px;
+  background-color: rgba(255, 255, 255, 0.384);
+  border-radius: 10px;
+  margin: 15px;
+}
+#img-2 {
+  border-radius:20px;
+  margin:10px;
+}
+h4 {
+  text-align: left;
+}
+#textbox1 {
+  width: 650px;
+  height: 30px;
+}
+#textbox2 {
+  width: 650px;
+  height: 30px;
+}
+#div-9 {
+  background-color: rgb(238, 255, 0);
+  height: 30;
+  width: 300px;
+  border-radius: 20px;
+}
+#div-10 {
+  background-color: rgba(70, 71, 69, 0.678);
+  height: 30px;
+  width: 730px;
+  border-radius: 20px;
+}
+#XP {
+  margin: 20px;
+}
