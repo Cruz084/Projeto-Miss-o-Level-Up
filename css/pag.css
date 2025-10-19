@@ -36,7 +36,9 @@ body {
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #xp{
     height: 100%;
