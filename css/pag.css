@@ -36,17 +36,20 @@ body {
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 #xp{
     height: 100%;
     width: 0%;
-    background: green;
+    background: rgb(86, 0, 107);
     transition: width 0.3s;
+    text-align: center;
 }
-
+button{
+    font-family: 'Minecraft';
+    display: inline-block;
+    color: white;
+    background-color: black;
+}
 h1{
     color: #ffffff;
 }
