@@ -93,4 +93,10 @@ body {
     color: white;
     background-color: rgb(1, 31, 1);
     font-family: 'Minecraft';
+    text-align: center;
+}
+select {
+  padding: 5px;
+    display: flex;
+    justify-content: center;
 }

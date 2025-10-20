@@ -24,14 +24,16 @@ body {
     padding: 0;
 }
 #div-1{
-    text-align: left;
-    padding: 50px;
+    display:flex;
     background-color: rgb(0, 53, 4);
     height: 140px;
+    width: 1920px;
+    justify-content: center;
+    padding: 50px;
 
 }
 #div-2{
-    width: 300px;
+    width: 800px;
     height: 20px;
     background-color: white;
     border-radius: 10px;
@@ -40,15 +42,16 @@ body {
 #xp{
     height: 100%;
     width: 0%;
-    background: rgb(86, 0, 107);
+    background: rgb(0, 0, 0);
     transition: width 0.3s;
-    text-align: center;
 }
 button{
     font-family: 'Minecraft';
-    display: inline-block;
     color: white;
     background-color: black;
+    display:flex;
+    justify-content: center;
+    padding:10px;
 }
 h1{
     color: #ffffff;
@@ -61,6 +64,7 @@ a{  color: rgb(255, 255, 255);
 
 #card-jf{
     color: rgb(255, 255, 255);
+    padding: 75px;
 }
 #card-jf:hover{
     color: rgb(0, 0, 0);
@@ -68,6 +72,7 @@ a{  color: rgb(255, 255, 255);
 }
 #card-lc{
     color: rgb(255, 255, 255);
+    padding: 75px;
 }
 #card-lc:hover{
     color: rgb(0, 0, 0);
@@ -75,10 +80,21 @@ a{  color: rgb(255, 255, 255);
 }
 #card-pd{
     color: rgb(255, 255, 255);
+    padding: 75px;
 }
 #card-pd:hover{
     color: rgb(0, 0, 0);
 
+}
+#posição-xp {
+    display:flex;
+    justify-content: center;
+    padding: 40px;
+}
+#posição-botão {
+    display:flex;
+    justify-content: center;
+    
 }
 
 
